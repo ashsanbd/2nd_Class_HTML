@@ -1,0 +1,60 @@
+
+*{
+    margin:0 auto;   
+}
+#container{
+    height: 1020px;
+	width: 835px;
+	border: solid 3px #DBD3D0;
+	color: #000000;
+    padding: 15px;
+    font-size: 17px;
+}
+#header{
+    text-align: center;   
+}
+#adimage{
+    height: 188px;
+    width: auto;
+}
+#address{
+    height: 188px;
+	width: auto;	
+	font-size: 18px;
+    float: left;
+}
+#img {
+    height: 181px;
+    width: 150px;
+    float: right;
+    display: block;
+	border: solid 3px #DBD3D0;
+}
+#Objective{
+    width: auto;
+    
+}
+#Exprience{
+    width: auto;   
+}
+#eq{
+    width: auto;   
+}	 
+#Education{
+    width: auto;
+	border-collapse:collapse;
+	font-family: arial, sans-serif;  
+}
+#headline{
+	text-align: center;
+}
+#Education td,th{
+	border: 2px solid #dddddd;
+}
+#Education tr{
+	background-color: white-space;
+}
+#Referance{
+	font-size: 18px;
+}
+
